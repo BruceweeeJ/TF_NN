@@ -1,0 +1,88 @@
+Iter 0,Testing Accuary0.8744
+Iter 1,Testing Accuary0.897
+Iter 2,Testing Accuary0.91
+Iter 3,Testing Accuary0.9154
+Iter 4,Testing Accuary0.9205
+Iter 5,Testing Accuary0.9235
+Iter 6,Testing Accuary0.9273
+Iter 7,Testing Accuary0.9299
+Iter 8,Testing Accuary0.9325
+Iter 9,Testing Accuary0.9352
+Iter 10,Testing Accuary0.9359
+Iter 11,Testing Accuary0.9385
+Iter 12,Testing Accuary0.9414
+Iter 13,Testing Accuary0.9415
+Iter 14,Testing Accuary0.9444
+Iter 15,Testing Accuary0.9458
+Iter 16,Testing Accuary0.9478
+Iter 17,Testing Accuary0.9492
+Iter 18,Testing Accuary0.95
+Iter 19,Testing Accuary0.9511
+Iter 20,Testing Accuary0.9532
+
+
+Iter 0,Testing Accuary0.941
+Iter 1,Testing Accuary0.9522
+Iter 2,Testing Accuary0.8926
+Iter 3,Testing Accuary0.9597
+Iter 4,Testing Accuary0.9462
+Iter 5,Testing Accuary0.9549
+Iter 6,Testing Accuary0.9538
+Iter 7,Testing Accuary0.9582
+Iter 8,Testing Accuary0.9621
+Iter 9,Testing Accuary0.9501
+Iter 10,Testing Accuary0.9553
+Iter 11,Testing Accuary0.9466
+Iter 12,Testing Accuary0.96
+Iter 13,Testing Accuary0.9559
+Iter 14,Testing Accuary0.9551
+Iter 15,Testing Accuary0.9596
+Iter 16,Testing Accuary0.9658
+Iter 17,Testing Accuary0.9606
+Iter 18,Testing Accuary0.956
+Iter 19,Testing Accuary0.9527
+Iter 20,Testing Accuary0.96
+
+Iter 0,Testing Accuary0.9082
+Iter 1,Testing Accuary0.9216
+Iter 2,Testing Accuary0.9275
+Iter 3,Testing Accuary0.9364
+Iter 4,Testing Accuary0.9407
+Iter 5,Testing Accuary0.9454
+Iter 6,Testing Accuary0.947
+Iter 7,Testing Accuary0.9504
+Iter 8,Testing Accuary0.9518
+Iter 9,Testing Accuary0.9544
+Iter 10,Testing Accuary0.956
+Iter 11,Testing Accuary0.9567
+Iter 12,Testing Accuary0.9591
+Iter 13,Testing Accuary0.9608
+Iter 14,Testing Accuary0.9618
+Iter 15,Testing Accuary0.9632
+Iter 16,Testing Accuary0.963
+Iter 17,Testing Accuary0.9648
+Iter 18,Testing Accuary0.9651
+Iter 19,Testing Accuary0.9669
+Iter 20,Testing Accuary0.9675
+
+Iter 0,Testing Accuary: 0.9425,Training Accuary: 0.94403636
+Iter 1,Testing Accuary: 0.9559,Training Accuary: 0.9590182
+Iter 2,Testing Accuary: 0.9641,Training Accuary: 0.9687091
+Iter 3,Testing Accuary: 0.9694,Training Accuary: 0.9763273
+Iter 4,Testing Accuary: 0.9704,Training Accuary: 0.97934544
+Iter 5,Testing Accuary: 0.9729,Training Accuary: 0.9824
+Iter 6,Testing Accuary: 0.9736,Training Accuary: 0.9841091
+Iter 7,Testing Accuary: 0.9759,Training Accuary: 0.9871455
+Iter 8,Testing Accuary: 0.9769,Training Accuary: 0.9886909
+Iter 9,Testing Accuary: 0.9779,Training Accuary: 0.9908364
+Iter 10,Testing Accuary: 0.979,Training Accuary: 0.9916
+Iter 11,Testing Accuary: 0.9794,Training Accuary: 0.9921091
+Iter 12,Testing Accuary: 0.9798,Training Accuary: 0.9930364
+Iter 13,Testing Accuary: 0.979,Training Accuary: 0.9931091
+Iter 14,Testing Accuary: 0.9807,Training Accuary: 0.9939091
+Iter 15,Testing Accuary: 0.9787,Training Accuary: 0.99396366
+Iter 16,Testing Accuary: 0.9799,Training Accuary: 0.99447274
+Iter 17,Testing Accuary: 0.9801,Training Accuary: 0.9945273
+Iter 18,Testing Accuary: 0.9803,Training Accuary: 0.99487275
+Iter 19,Testing Accuary: 0.9791,Training Accuary: 0.9941091
+Iter 20,Testing Accuary: 0.9805,Training Accuary: 0.995
